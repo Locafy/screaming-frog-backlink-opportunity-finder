@@ -24,6 +24,7 @@ Prepared the backlink opportunity finder for public Locafy ownership while prese
 - `git diff --check` — passed.
 - Repository secret-pattern scan — passed.
 - OpenAI Responses API, OpenAI web search, and Screaming Frog documentation links — returned HTTP 200.
+- GitHub Actions on Node.js 24 — passed.
 
 ## Design decisions
 
